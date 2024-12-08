@@ -35,33 +35,6 @@ This interpretability ensures that researchers can trust and validate the AI's f
 
 Manually deriving mathematical models from experimental data is time-consuming. Feynman AI automates this process, significantly reducing the time required for experimentation and analysis.
 
-**Example in Action:**
-
-```python
-# Example code snippet for symbolic regression using a sample library
-from feynman_ai import SymbolicRegressor
-
-# Load your data
-data = {
-    "distance": [10, 20, 30],
-    "time": [2, 4, 6],
-    "velocity": [5, 5, 5],
-}
-
-# Initialize the regressor
-model = SymbolicRegressor()
-
-# Fit the model
-formula = model.fit(data)
-print(f"The derived formula is: {formula}")
-```
-
-Output:
-
-```
-The derived formula is: velocity = distance / time
-```
-
 ---
 
 ## Applications of Feynman AI
