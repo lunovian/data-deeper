@@ -1,16 +1,15 @@
 export const metaData = {
-  baseUrl: "https://nextfolio-template.vercel.app/",
-  title: "Nextfolio",
-  name: "Sirius",
+  baseUrl: "https://datadeeper.vercel.app/",
+  title: "DataDeeper - Nguyen Xuan An",
+  name: "Nguyen Xuan An",
   ogImage: "/opengraph-image.png",
   description:
-    "A clean, fast, and lightweight portfolio template built with Next.js, Vercel, and Tailwind CSS for optimal performance.",
+    "Explore insights in AI, data analytics, and machine learning with Nguyen Xuan An, a Data Scientist and Machine Learning Engineer.",
 };
 
 export const socialLinks = {
-  twitter: "https://x.com/1tssirius",
-  github: "https://github.com/1msirius/Nextfolio",
-  instagram: "https://www.instagram.com/",
-  linkedin: "https://www.linkedin.com/",
-  email: "mailto:example@gmail.com",
+  twitter: "https://x.com/lunovian", // Add if applicable
+  github: "https://github.com/lunovian",
+  linkedin: "https://www.linkedin.com/in/lunovian/", // Add if applicable
+  email: "mailto:nxan2911@gmail.com",
 };
