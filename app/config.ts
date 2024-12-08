@@ -10,6 +10,7 @@ export const metaData = {
 export const socialLinks = {
   twitter: "https://x.com/lunovian", // Add if applicable
   github: "https://github.com/lunovian",
+  instagram: "", // Add if applicable
   linkedin: "https://www.linkedin.com/in/lunovian/", // Add if applicable
   email: "mailto:nxan2911@gmail.com",
 };
