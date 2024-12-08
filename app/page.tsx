@@ -4,7 +4,7 @@ import { socialLinks } from "./config";
 export default function Page() {
   return (
     <section>
-      <a href={socialLinks.github} target="_blank">
+      <a href={socialLinks.github} target="_blank" rel="noopener noreferrer">
         <Image
           src="/profile.png"
           alt="Nguyen Xuan An's Profile Photo"
@@ -34,25 +34,37 @@ export default function Page() {
         </p>
         <p>
           This portfolio is{" "}
-          <a href={socialLinks.github} target="_blank">
+          <a
+            href={socialLinks.github}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             open-source
           </a>{" "}
           and built using Next.js and Tailwind CSS for a seamless experience.
         </p>
         <p>
           Feel free to connect with me via{" "}
-          <a href={socialLinks.email} target="_blank">
+          <a href={socialLinks.email} target="_blank" rel="noopener noreferrer">
             email
           </a>{" "}
           or explore my work on{" "}
-          <a href={socialLinks.github} target="_blank">
+          <a
+            href={socialLinks.github}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             GitHub
           </a>
           .
         </p>
         <p>
           Created and maintained by{" "}
-          <a href={socialLinks.github} target="_blank">
+          <a
+            href={socialLinks.github}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Nguyen Xuan An
           </a>
           .
