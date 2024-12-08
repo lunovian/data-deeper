@@ -1,62 +1,93 @@
-# Nextfolio
+# Nguyen Xuan An - Data Scientist & Machine Learning Engineer
 
-A clean, fast, and lightweight portfolio template built with [Next.js](https://nextjs.org/), [Vercel](https://vercel.com/), and [Tailwind CSS](https://tailwindcss.com/) for optimal performance.
+**Address:**  
+Vinhomes Grand Park, Nguyen Xien Street, Thu Duc City, Ho Chi Minh City, Vietnam 70000  
 
-Deploy your Nextfolio site with Vercel in minutes.
+**Email:** [nxan2911@gmail.com](mailto:nxan2911@gmail.com)  
+**Phone:** (+84) 034.529.2911  
+**GitHub:** [https://github.com/lunovian](https://github.com/lunovian)  
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F1msirius%2FNextfolio)
+---
 
-## Technologies Used
+## 📚 Education
 
-- Framework: [Next.js](https://nextjs.org/)
-- Typography: [Vercel Geist Font](https://vercel.com/font)
-- Styling: [Tailwind CSS](https://tailwindcss.com/)
-- Analytics: [Vercel Web Analytics](https://vercel.com/docs/speed-insights) and [Speed Insights](https://vercel.com/docs/speed-insights)
-- Deployment: [Vercel](https://vercel.com/)
+**FPT University – Thu Duc City, Ho Chi Minh City**  
+*Bachelor of Artificial Intelligence*  
 
-## Features
+- GPA: 3.36/4 | Expected Graduation: 2026  
+- Academic Highlights: 1 Semester of Excellent Performance, 5 Semesters of Good Academic Performance  
+- Relevant Coursework: Advanced Machine Learning, Deep Learning, Probability and Statistics, Big Data, AI Ethics, and Cloud Computing for AI Applications.  
 
-- **[MDX](https://mdxjs.com/) Support**: Use Markdown with JSX components for blog posts.
-- **Light and Dark Mode Toggle**: Switch between themes for better readability.
-- **Dynamic [OG Images](https://vercel.com/docs/functions/og-image-generation)**: Auto-generate Open Graph images for sharing.
-- **SEO Optimization**: Enhance search visibility with sitemap, robots.txt, and JSON-LD schema.
-- **Dynamic Feed Generation**: Automatic dynamic [RSS](https://nextfolio-template.vercel.app/rss.xml), [Atom](https://nextfolio-template.vercel.app/atom.xml), and [JSON](https://nextfolio-template.vercel.app/feed.json) feeds.
-- **[KaTeX](https://katex.org/) Integration**: Render mathematical expressions smoothly.
-- **Performance Tracking**: Monitor web performance with [Vercel Web Analytics](https://vercel.com/docs/speed-insights) and [Speed Insights](https://vercel.com/docs/speed-insights).
-- **Interactive Embeds**: Easily embed interactive tweets and YouTube videos.
-- **Captions**: Add descriptive captions to photos, tweets, and videos.
-- **Image Grid**: Easily showcase image galleries or photos.
+---
 
-## Installation
+## 💻 Technical Skills
 
-Nextfolio uses [pnpm](https://pnpm.io/installation) for dependency management, so ensure it is installed on your system.
+- **Programming:** Python, TensorFlow, PyTorch, R, SQL, MATLAB, C++, JavaScript  
+- **Design Tools:** Figma, Adobe Photoshop, Adobe Premiere, Canva  
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [pnpm](https://pnpm.io/installation) to bootstrap the example:
+---
 
-```
-pnpm create next-app --example https://github.com/1msirius/Nextfolio my-portfolio
-```
+## 🚀 Projects
 
-Start the development server:
+### **REColor**  
 
-```
-pnpm dev
-```
+- AI-driven tool for recoloring grayscale and faded images.  
+- Enhanced visual quality with a user-friendly interface.  
 
-The server will be running at [http://localhost:3000](http://localhost:3000).
+### **AI Tool for Room Decoration**  
 
-## Configuration
+- Analyzed room layout and preferences to recommend furniture and design.  
+- Seamlessly integrated cutting-edge AI for optimized decor suggestions.  
 
-1. Update the site metadata and social links in `app/config.ts` to set up SEO, feeds, social links, and Open Graph settings.
-2. Update your routes in `app/sitemap.ts` for SEO optimization.
-3. Update your blog posts in the `/content` folder.
+### **ANAug**  
 
-For more information about configuration, follow the instructions in the [Getting Started](https://nextfolio-template.vercel.app/blog/getting-started#configuration) post.
+- Developed Python-based data augmentation libraries tailored for medical imaging and engineering.  
+- Improved model robustness and niche AI application performance.  
 
-## Contributing
+---
 
-Contributions are welcome! To get involved, just push your code to the repo. Whether you're enhancing existing features or adding new ones, your efforts are greatly appreciated!
+## 🏢 Professional Experience
 
-## Licence
+### **CEH - AI Engineer Intern**  
 
-Nextfolio is open-source and released under the MIT License.
+*Ho Chi Minh City, Vietnam (Sep 2024 - Present)*  
+
+- Enhanced container label detection accuracy by 10% with AI algorithms.  
+- Documented reproducible experiments and shared knowledge across teams.  
+
+### **LINEN1992 - Product Marketing Manager**  
+
+*Ho Chi Minh City, Vietnam (Jul 2024 - Present)*  
+
+- Boosted revenue by 15% with AI-driven strategies and market insights.  
+- Leveraged AI-powered forecasting to streamline product development.  
+
+---
+
+## 🎓 Leadership & Content Creation
+
+### **FPT University Student Union - Event Coordinator**  
+
+*Ho Chi Minh City, Vietnam (Sep 2022 - Dec 2022)*  
+
+- Organized events attended by 500+ participants, managing budgets and logistics.  
+
+### **@anmatngu2911 (YouTube Channel)**  
+
+*Founder & Content Creator (Jan 2023 - Present)*  
+
+- Over 1.57 million views and 19,000+ subscribers.  
+- Produced engaging crime and mystery content, showcasing storytelling skills.  
+
+### **DataDeeper (Blog)**  
+
+*Founder & Content Creator (2023 - Present)*  
+
+- Authored insightful articles on AI and data analytics.  
+- Promoted through SEO and established a strong online presence.  
+
+---
+
+## 🌟 Interests
+
+Passionate about leveraging AI and data to solve real-world problems, enhancing human lives, and driving innovation.  
