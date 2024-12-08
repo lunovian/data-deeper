@@ -10,12 +10,21 @@ export default function Error({
   reset: () => void;
 }) {
   useEffect(() => {
-    console.error(error);
+    console.error("Error detected:", error);
   }, [error]);
 
   return (
     <div>
-      <p>Oops! Something went wrong... maybe try refreshing?</p>
+      <p>
+        Uh-oh! Looks like the code tripped over itself. Maybe give it a good ol'
+        refresh slap?
+      </p>
+      <button
+        onClick={reset}
+        style={{ marginTop: "10px", padding: "8px 16px" }}
+      >
+        Fix it, Captain!
+      </button>
     </div>
   );
 }

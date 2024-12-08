@@ -4,10 +4,10 @@ import { socialLinks } from "./config";
 export default function Page() {
   return (
     <section>
-      <a href={socialLinks.twitter} target="_blank">
+      <a href={socialLinks.github} target="_blank">
         <Image
           src="/profile.png"
-          alt="Profile photo"
+          alt="Nguyen Xuan An's Profile Photo"
           className="rounded-full bg-gray-100 block lg:mt-5 mt-0 lg:mb-5 mb-10 mx-auto sm:float-right sm:ml-5 sm:mb-5 grayscale hover:grayscale-0"
           unoptimized
           width={160}
@@ -17,48 +17,43 @@ export default function Page() {
       </a>
 
       <h1 className="mb-8 text-2xl font-medium tracking-tight">
-        Portfolio, made simple!
+        Welcome to Nguyen Xuan An's Portfolio!
       </h1>
 
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-          A clean, fast, and lightweight portfolio template built with Next.js,
-          Vercel, and Tailwind CSS for optimal performance.
+          Explore insights in AI, data analytics, and machine learning. Dive
+          into my projects and achievements as a Data Scientist and Machine
+          Learning Engineer.
         </p>
         <p>
-          Nextfolio includes all the essentials for a stunning portfolio: SEO,
-          MDX support, RSS, Atom, & JSON feeds, analytics, tweet & YouTube
-          embeds, KaTeX integration, and{" "}
-          <a
-            target="_blank"
-            href="https://github.com/1msirius/Nextfolio?tab=readme-ov-file#features"
-          >
-            more
+          Featured projects include <strong>REColor</strong>,{" "}
+          <strong>AI Tool for Room Decoration</strong>, and{" "}
+          <strong>ANAug</strong>, showcasing innovation and impact in AI-driven
+          solutions.
+        </p>
+        <p>
+          This portfolio is{" "}
+          <a href={socialLinks.github} target="_blank">
+            open-source
+          </a>{" "}
+          and built using Next.js and Tailwind CSS for a seamless experience.
+        </p>
+        <p>
+          Feel free to connect with me via{" "}
+          <a href={socialLinks.email} target="_blank">
+            email
+          </a>{" "}
+          or explore my work on{" "}
+          <a href={socialLinks.github} target="_blank">
+            GitHub
           </a>
           .
         </p>
         <p>
-          Nextfolio is{" "}
+          Created and maintained by{" "}
           <a href={socialLinks.github} target="_blank">
-            open-source
-          </a>{" "}
-          and fully customizable, making it easy to add more features.
-        </p>
-        <p>
-          <a
-            href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F1msirius%2FNextfolio"
-            target="_blank"
-          >
-            Deploy
-          </a>{" "}
-          your Nextfolio site with Vercel in minutes and follow the set up
-          instructions in the{" "}
-          <a href="/blog/getting-started">Getting Started</a> post.
-        </p>
-        <p>
-          Built and maintained by{" "}
-          <a href="https://imsirius.xyz/" target="_blank">
-            Sirius
+            Nguyen Xuan An
           </a>
           .
         </p>

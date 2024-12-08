@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "404",
-  description: "Error 404",
+  description: "Lost in the void of the internet.",
 };
 
 export default function NotFound() {
@@ -12,8 +12,12 @@ export default function NotFound() {
         404 - Page not found
       </h1>
       <p className="mb-4">
-        Oops! The page you're looking for doesn't seem to exist.
+        Whoops! Looks like you wandered off the map. Maybe the page you're
+        looking for is in Narnia?
       </p>
+      <a href="/" className="text-blue-500 hover:underline">
+        Let's go back home before Aslan gets upset.
+      </a>
     </section>
   );
 }

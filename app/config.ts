@@ -1,6 +1,6 @@
 export const metaData = {
   baseUrl: "https://datadeeper.vercel.app/",
-  title: "DataDeeper - Nguyen Xuan An",
+  title: "DataDeeper",
   name: "Nguyen Xuan An",
   ogImage: "/opengraph-image.png",
   description:
